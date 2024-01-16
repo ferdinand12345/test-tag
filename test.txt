@@ -1,13 +1,1 @@
-Hay
-Ini di v1
-Abcde
-
-A
-A
-A
-Ini masuk V3
-
-A
-A
-A
-Ini masuk V4
+Ini kosongan
